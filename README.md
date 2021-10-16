@@ -7,3 +7,4 @@
 ### How do I get set up? ###
 
 - npm i
+- sudo nodemon dist/server.js
